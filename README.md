@@ -37,7 +37,7 @@ Released under GNU/GPL v3
 
 
 ## Updates    
-Get latest code at https://github.com/ndeet/unzipper
+Get latest code at https://github.com/reams-kamat/unzipper
 
 
 ## Credits   
